@@ -51,3 +51,4 @@
 ![Sanduni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanduniDisanayakaCS&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniDisanayakaCS&layout=compact&theme=tokyonight)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=SanduniDisanayakaCS&label=Profile+Views&color=0e75b6&style=flat)
