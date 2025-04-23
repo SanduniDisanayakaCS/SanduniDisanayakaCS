@@ -23,7 +23,7 @@
 
 - 📧 Email: sandunidisanayaka96@gmail.com
 - 🌐 [GitHub](https://github.com/SanduniDisanayakaCS)
-- 🌍 [LinkedIn](#) *(add your profile link here)*
+- 🌍 [LinkedIn](#) (https://www.linkedin.com/in/sanduni-disanayaka-3073b1240/)
 
 ---
 
