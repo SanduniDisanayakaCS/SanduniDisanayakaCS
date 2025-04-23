@@ -3,11 +3,15 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 - 🔐 [IAM Anomaly Detector](https://github.com/SanduniDisanayakaCS/IAM-Anomaly-Detector)  
-  AI-powered app to detect suspicious IAM logins using Isolation Forest.  
+  ML-powered app to detect suspicious IAM login patterns using Isolation Forest.  
   🌍 [Live App](https://iam-anomaly-detector-version-1.streamlit.app/)
+
+- 🤖 [IAM Log Q&A Bot](https://github.com/SanduniDisanayakaCS/iam-qna-bot)  
+  A GenAI chatbot that answers questions based on IAM logs using Hugging Face + LangChain.  
+  🌍 [Live App](https://iam-qna-bot-version2.streamlit.app)
 
 ---
 
@@ -16,6 +20,7 @@
 - 🤖 Machine Learning & Model Deployment
 - 📊 Exploratory Data Visualization
 - 🌐 Streamlit + Hugging Face for Cloud ML
+- 🔐 AI for Security and Log Intelligence
 
 ---
 
@@ -40,7 +45,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-3E5F8A?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-GitHub?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
