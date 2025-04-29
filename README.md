@@ -9,9 +9,9 @@
   ML-powered app to detect suspicious IAM login patterns using Isolation Forest.  
   🌍 [Live App](https://iam-anomaly-detector-version-1.streamlit.app/)
 
-📕 IAM Log Q&A Bot  
-A GenAI chatbot that answers questions based on IAM logs using Hugging Face + LangChain.  
-🌐 [Live App](https://iam-qna-frontend.vercel.app)
+-📕 IAM Log Q&A Bot  
+  A GenAI chatbot that answers questions based on IAM logs using Hugging Face + LangChain.  
+  🌐 [Live App](https://iam-qna-frontend.vercel.app)
 
 
 ---
