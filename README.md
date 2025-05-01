@@ -12,6 +12,11 @@
 - 📕 IAM Log Q&A Bot  
   A GenAI chatbot that answers questions based on IAM logs using Hugging Face + LangChain.  
   🌍 [Live App](https://iam-qna-frontend.vercel.app)
+  
+- 🗺️ [Airbnb NYC Data Insights](https://github.com/SanduniDisanayakaCS/airbnb-data-insights)  
+   A full-stack EDA + dashboard project using Python and Power BI to analyze Airbnb listings in NYC.  
+   📊 Bar + Histogram + Pie Chart in an interactive Power BI dashboard.
+
 
 
 ---
