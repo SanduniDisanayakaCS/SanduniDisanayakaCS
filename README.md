@@ -22,6 +22,13 @@ ML-powered app to predict customer churn using Telco data and Random Forest.
 📈 Includes data preprocessing, model training, and live predictions.
   🌍 [Live App](https://churn-prediction-api-cxkoo7ezenesva7zrr2nyd.streamlit.app/)
 
+ - 🚦 Credit Risk Predictor  
+A full-stack app that predicts credit risk using FastAPI (backend) and React (frontend).  
+🧠 Trained on top financial features using Scikit-learn  
+📍 Runs locally: FastAPI on `localhost:8000`, React on `localhost:3000`  
+🔗 [GitHub Repo](https://github.com/SanduniDisanayakaCS/credit_risk_ml)
+
+
 
 
 ---
