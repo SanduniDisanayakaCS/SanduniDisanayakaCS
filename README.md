@@ -5,8 +5,8 @@
 
 ### 🚀 Featured Projects
 
- -🩻 [Chest X-ray Pneumonia Detector](https://github.com/SanduniDisanayakaCS/mlops-xray-app)
-   AI app to detect pneumonia from chest X-rays using a PyTorch CNN model.  
+- 🩻 [Chest X-ray Pneumonia Detector](https://github.com/SanduniDisanayakaCS/mlops-xray-app)
+    AI app to detect pneumonia from chest X-rays using a PyTorch CNN model.  
    🧠 Built with: FastAPI + Streamlit + PyTorch  
    🖼️ Upload X-rays and get instant results!
 
