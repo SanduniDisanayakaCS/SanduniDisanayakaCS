@@ -10,6 +10,11 @@
    🧠 Built with: FastAPI + Streamlit + PyTorch  
    🖼️ Upload X-rays and get instant results!
 
+-  🎨 [AI Art Generator](https://github.com/SanduniDisanayakaCS/ai-art-gradio)
+   A real-time AI app to generate stunning images from text prompts using Stable Diffusion v1.5 and Gradio.
+    🛠️ Built with: Google Colab + 🤗 Hugging Face `diffusers` + ⚙️ Gradio  
+    🖼️ Just type prompts like *“A futuristic city at sunset in watercolor style”* and get unique artworks instantly!
+
 - 🔐 [IAM Anomaly Detector](https://github.com/SanduniDisanayakaCS/IAM-Anomaly-Detector)  
   ML-powered app to detect suspicious IAM login patterns using Isolation Forest.  
   🌍 [Live App](https://iam-anomaly-detector-version-1.streamlit.app/)
